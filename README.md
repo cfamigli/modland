@@ -1,2 +1,2 @@
 # modland
-all things MODIS
+process, resample, plot modis data
